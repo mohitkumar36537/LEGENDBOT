@@ -1,6 +1,6 @@
 {
   "name": "LISABOT",
-  "description": "The best userbot made by Legend_Mr_Hacker. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "The best userbot made by Nothing_is_permanent_X . Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/aca52f449386c91d3ab62.jpg",
     "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MOHIT/LEGENDBOT/",
-  "website": "https://github.com/MOHIT/LEGENDBOT/",
+  "repository": "https://github.com/MOHIT/LISABOT/",
+  "website": "https://github.com/MOHIT/LISABOT/",
   "success_url": "https://t.me/MOHITUSERBOT",
   "env": {
     "ENV": {
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "LEGEND",
+      "description": "Fill your Full name. By default it is LISA User",
+      "value": "LISA",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Legend's LEGENDBOT Is Alive",
+      "description": "Set Custom Alive Message When entering .alive Or .lisa  Command.",
+      "value": "Lisa's LISABOT Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
+      "description": "Put here any telegraph media link for alive pic in .alive Or .lisa command.",
+      "value": "https://telegra.ph/file/aca52f449386c91d3ab62.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a legend. Bcoz i am User Of LEGEND",
+      "value": "I am a lisa. Bcoz i am User Of LISA",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/73800882b4e1723c2abd1.jpg",
+      "value": "https://telegra.ph/file/aca52f449386c91d3ab62.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
