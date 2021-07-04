@@ -1,7 +1,7 @@
 {
-  "name": "LEGENDBOT",
+  "name": "LISABOT",
   "description": "The best userbot made by Legend_Mr_Hacker. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cee497cc4ad6c9dfc04c6.jpg",
+  "logo": "https://telegra.ph/file/aca52f449386c91d3ab62.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/LEGENDUSERBOT",
+  "repository": "https://github.com/MOHIT/LEGENDBOT/",
+  "website": "https://github.com/MOHIT/LEGENDBOT/",
+  "success_url": "https://t.me/MOHITUSERBOT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
